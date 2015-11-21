@@ -1,4 +1,8 @@
 # GoogleShoppingAPI v2
+#### Product Listing Ads
+#### PLAs
+
+Find out more at Merchant Protocol, You're [Magento Support](https://merchantprotocol.com/) Partner.
 
 # Update to 0.2.4
 
